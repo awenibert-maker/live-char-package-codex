@@ -1,0 +1,9 @@
+# 本地状态（记录本机输出根目录），不要提交
+state.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 系统文件
+.DS_Store
